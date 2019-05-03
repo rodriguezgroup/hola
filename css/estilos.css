@@ -1,0 +1,58 @@
+    body{  font-family:Calibri;font-size:11pt;  }
+
+    h1, .tema{
+        font-family:Calibri; border-bottom:solid 3px #D79100;
+        font-variant: small-caps;
+        font-weight: bold;font-size:14pt;
+    }
+
+    table .tema{
+        background-color:black;color:white;font-size:11pt;
+    }
+
+    h2{  font-family:Arial;border-bottom:solid 1px #D79100;color:black;  }
+
+    #areaTrabajo{
+        width:950px;border:0px;
+    }
+
+    table{
+        border-collapse: collapse;border-bottom:solid 1px #D6D6D6;
+        width:650px;padding:10px;
+        background-color:transparent;
+    }
+
+    p, .texto{
+        font-size:11pt;line-height: 20px;text-align: justify;
+        font-family:Calibri;
+    }
+
+    a{  font-family:Calibri;font-size:11pt;color:black;  }
+
+    a:link, a:visited{ text-decoration: none;  }
+
+    a:hover{ text-decoration: underline;font-weight: bold;font-size:10pt;color:#003366; }
+
+    div{  font-size:11pt;color:#D79100;text-align: right;   }
+
+    .caja, select{
+        border:solid 1px gray;width: 150px;height:25px;
+        font-family: Arial;font-size:11pt;
+        text-align: center;
+    }
+
+    .boton{
+        border:solid 1px gray;width: auto;height:25px;font-family: Arial;
+        font-size:11pt;
+
+    }
+
+    .error{
+        font-family:Calibri;font-size:11pt;font-variant:small-caps;
+        color:red;font-weight: bold;
+    }
+
+    .ok{
+        font-family:Calibri;font-size:11pt;font-variant: small-caps;color:blue;
+        font-weight: bold;
+    }
